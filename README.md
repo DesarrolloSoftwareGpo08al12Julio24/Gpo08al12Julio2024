@@ -9,3 +9,11 @@
 | [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
 
 </br> Tabla 1. Colección de reposoitorios.
+
+
+
+# Referencias.
+
+Programmer Exception. 07 Cómo usar git checkout.
+Disponible en:https://www.youtube.com/watch?v=vqVVbNpETck
+Consultado:09julio24.
